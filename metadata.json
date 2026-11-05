@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster - Flutter Smart Quiz Application & Academic Hub",
+  "description": "A comprehensive Material Design 3 Flutter smart quiz mobile application with 8 categories, SQLite database persistence, countdown timer, sound effects, analytics, and full B.Tech academic lab deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
